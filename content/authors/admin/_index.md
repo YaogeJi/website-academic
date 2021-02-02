@@ -17,7 +17,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial machine learning, invertible machine learning and machine learning security. 
+bio: My research interests include statistical learning over networks and distributed optimization theory.
 
 # Interests to show in About widget
 interests:
@@ -71,7 +71,7 @@ email: "jiyao@purdue.edu"
 highlight_name: false
 ---
 
-I am a second year Ph.D student of computer Engineering at Purdue University supervised by <a href="https://www.davidinouye.com/">Prof. David I. Inouye</a> and <a href="https://engineering.purdue.edu/~sbagchi/">Prof. Saurabh Bagchi</a>. I have worked in <a href="https://ir.baidu.com/">Baidu</a> for three years after completion my bachelor's degree. My research interests include adversarial machine learning and machine learning security. 
+I am a second year Ph.D student of Industrial Engineering at Purdue University supervised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning over networks and distributed optimization theory.
 
 
 
