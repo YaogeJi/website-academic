@@ -21,10 +21,8 @@ bio: My research interests include adversarial machine learning, invertible mach
 
 # Interests to show in About widget
 interests:
-- Adversarial Machine Learning
-- Invertible Machine Learning
-- Machine Learning Security
-
+- Statistical learning over networks
+- Distributed optimization of large-Scale complex networks
 # Education to show in About widget
 education:
   courses:
