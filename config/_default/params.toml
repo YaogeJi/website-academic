@@ -88,18 +88,18 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "bairuqi@purdue.edu"
-phone = "765-714-5086"
+email = "jiyao@purdue.edu"
+phone = "765-714-5066"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 
 room = "MSEE 233D"
-address = {street = "501 Northwestern Ave", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
+address = {street = "Grissom Hall", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "40.42648", longitude = "-86.91075"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

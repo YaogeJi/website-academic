@@ -9,10 +9,10 @@ summary: This is the personal website of Ruqi Bai. Dont hesitate to email me if 
 projects: []
 
 # Date published
-date: "2021-02-01T12:43:37Z"
+date: "2021-02-01T23:29:30Z"
 
 # Date updated
-lastmod: "2021-02-01T19:03:23Z"
+lastmod: "2021-02-01T23:29:30Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -42,6 +42,6 @@ This is my personal website. Please check if anything here could help you a litt
 
 ## License
 
-Copyright 2021-present [Ruqi Bai](https://ruqibai.netlify.com/).
+Copyright 2021-present [Yao Ji](https://yaoji.netlify.com/).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.

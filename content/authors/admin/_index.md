@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruqi Bai
+title: Yao Ji
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Electrical and Computer Engineering (ECE)
-  url: https://engineering.purdue.edu/ECE/
+- name: School of Industrial Engineering (IE)
+  url: https://engineering.purdue.edu/IE/
 - name: Purdue University
   url: https://www.purdue.edu/
 
@@ -28,11 +28,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Engineering
+  - course: PhD in Operation Research
     institution: Purdue University
     year: Present
-  - course: BS in Applied Physics
-    institution: Nanjing University of Posts and Telecommunications
+  - course: M.S in Probability and Stochastic Process 
+    institution: Beijing Normal University
+    year: 2019
+  - course: B.S in Mathematics and Statistics
+    institution: Beijing Normal University
     year: 2016
 
 # Social/Academic Networking
@@ -48,10 +51,10 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/RuqiBai/
+  link: https://github.com/YaogeJi/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ruqi-bai/
+  link: https://www.linkedin.com/in/yao-ji-522a751a9/
   # - icon: google-scholoar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   # icon_pack: ai
   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,7 +67,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bairuqi@purdue.edu"
+email: "jiyao@purdue.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -74,4 +77,4 @@ I am a second year Ph.D student of computer Engineering at Purdue University sup
 
 
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Ruqi_Bai.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}.
