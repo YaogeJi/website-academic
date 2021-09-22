@@ -1,9 +1,9 @@
 ---
 title: Welcome to my personal website
-subtitle: This is the personal website of Ruqi Bai. Dont hesitate to email me if you have any comments about me or my website.
+subtitle: This is the personal website of Yao Ji. Dont hesitate to email me if you have any comments about me or my website.
 
 # Summary for listings and search engines
-summary: This is the personal website of Ruqi Bai. Dont hesitate to email me if you have any comments about me or my website.
+summary: This is the personal website of Yao Ji. Dont hesitate to email me if you have any comments about me or my website.
 
 # Link this post with a project
 projects: []
