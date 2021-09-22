@@ -30,7 +30,7 @@ content:
   - name: Decentralized Optimization
     tag: Decentralized Optimization
   - name: Statistics
-    tag: statistics
+    tag: Statistics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
