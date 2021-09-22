@@ -3,6 +3,7 @@ title: Distributed CTA
 summary: classical CTA algorithm in distributed scenario.
 tags:
 - Decentralized Optimization
+- Statistics
 date: "2021-06-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
