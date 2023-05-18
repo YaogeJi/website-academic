@@ -31,14 +31,10 @@ publication_types: ["2"]
 publication: In Journal of Machine Learning Research
 publication_short: In JMLR
 
-abstract: We study sparse linear regression over a network of agents, modeled as an undirected graph
-(with no centralized node). The estimation problem is formulated as the minimization
-of the sum of the local LASSO loss functions plus a quadratic penalty of the consensus
-constraint—the latter being instrumental to obtain distributed solution methods. ...
+abstract: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node). The estimation problem is formulated as the minimization of the sum of the local LASSO loss functions plus a quadratic penalty of the consensus constraint—the latter being instrumental to obtain distributed solution methods. ...
 
 # Summary. An optional shortened abstract.
-summary: We study sparse linear regression over a network of agents, modeled as an undirected graph
-(with no centralized node)
+summary: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node).
 tags: []
 
 # Display this page in the Featured widget?
