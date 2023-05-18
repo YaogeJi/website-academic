@@ -1,17 +1,19 @@
 ---
-title: "An example conference paper"
+title: "Distributed Sparse Regression via Penalization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Yao Ji
+- Gesualdo Scutari
+- Ying Sun
+- Harsha Honnappa
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -23,17 +25,20 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In Journal of Machine Learning Research
+publication_short: In JMLR
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study sparse linear regression over a network of agents, modeled as an undirected graph
+(with no centralized node). The estimation problem is formulated as the minimization
+of the sum of the local LASSO loss functions plus a quadratic penalty of the consensus
+constraint—the latter being instrumental to obtain distributed solution methods. ...
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: We study sparse linear regression over a network of agents, modeled as an undirected graph
+(with no centralized node)
 tags: []
 
 # Display this page in the Featured widget?
