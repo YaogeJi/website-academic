@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 64
+weight: 90
 
-title: Recent Posts
+title: Personal Life
 subtitle:
 
 content:
