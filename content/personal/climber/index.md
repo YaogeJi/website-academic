@@ -1,9 +1,9 @@
 ---
-title: Welcome to my personal website
-subtitle: This is the personal website of Yao Ji. Dont hesitate to email me if you have any comments about me or my website.
+title: As a climber
+subtitle: Yao Ji as a climber
 
 # Summary for listings and search engines
-summary: This is the personal website of Yao Ji. Dont hesitate to email me if you have any comments about me or my website.
+summary: Yao Ji as a climber
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Pexels**](https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)'
+  # caption: 'Image credit: [**Pexels**](https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -32,13 +32,13 @@ authors:
 - admin
 
 tags:
-- welcome
+- personal
 
 categories:
-- welcome
+- personal
 ---
 
-This is my personal website. Please check if anything here could help you a little bit. I am glad to hear your feedback and comments. 
+
 
 ## License
 
