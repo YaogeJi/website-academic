@@ -25,7 +25,7 @@ featured: false
 image:
   # caption: 'Image credit: [**Pexels**](https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
