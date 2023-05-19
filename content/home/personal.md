@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: life
+  page_type: personal
   # Choose how many pages you would like to display (0 = all pages)
   count: 2
   # Filter on criteria
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
