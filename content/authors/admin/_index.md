@@ -6,7 +6,7 @@ title: Yao Ji
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,12 +21,15 @@ bio: My research interests include statistical learning over networks and distri
 
 # Interests to show in About widget
 interests:
-- Statistical learning over networks
-- Distributed optimization of large-Scale complex networks
+- Statistical learning
+- Decentralized estimation and inference
+- Distributed optimization theory
+- Stochastic optimization
+- High-dimensional probability and statistics
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Operation Research
+  - course: Ph.D. in Operation Research
     institution: Purdue University
     year: Present
   - course: M.S in Probability and Stochastic Process 
