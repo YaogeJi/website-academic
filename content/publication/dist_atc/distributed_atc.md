@@ -36,7 +36,7 @@ abstract: We study linear regression from data distributed over a network of age
 # Summary. An optional shortened abstract.
 summary: ATC convergence rate of LASSO problem in high-dimension regime.
 
-tags: [distributed optimization, high-dimension statistics, linear convergence, sparse linear regression]
+tags: [distributed optmization, high-dimension statistics, linear convergence, sparse linear regression]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,13 +47,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY6nnN9acAAAAA:ZLesKjqE8-BbHKNPIZ6ksRKBWa-K-coC-JFfRPQarELKtK7PvoeosGtIzpV4CFOv-l3bDFgg0A4'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
