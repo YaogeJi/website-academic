@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-04-17T00:00:00Z"
-doi: ""
+doi: "this"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-17T00:00:00Z"
@@ -26,7 +26,6 @@ publishDate: "2023-04-17T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
-
 # Publication name and optional abbreviated publication name.
 publication: In IEEE Transactions on Information Theory ( Early Access )
 publication_short: In *IEEE Trans. Inf. Theory*
