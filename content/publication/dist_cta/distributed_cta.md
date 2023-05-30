@@ -36,7 +36,7 @@ abstract: We study sparse linear regression over a network of agents, modeled as
 
 # Summary. An optional shortened abstract.
 summary: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node).
-tags: []
+tags: [distributed optimization, high-dimension statistics, linear convergence, sparse linear regression]
 
 # Display this page in the Featured widget?
 featured: true
