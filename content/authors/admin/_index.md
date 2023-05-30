@@ -32,10 +32,10 @@ education:
   - course: Ph.D. in Operation Research
     institution: Purdue University
     year: Present
-  - course: M.S in Probability and Stochastic Process 
+  - course: M.S. in Probability and Stochastic Process 
     institution: Beijing Normal University
     year: 2019
-  - course: B.S in Mathematics and Statistics
+  - course: B.S. in Mathematics and Statistics
     institution: Beijing Normal University
     year: 2016
 

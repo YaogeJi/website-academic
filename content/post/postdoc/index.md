@@ -1,6 +1,6 @@
 ---
-title: Looking for a Postdoc position 
-subtitle: in the intersection of optimization theory and statistics.
+title: Looking for a Postdoc position in the intersection of optimization theory and statistics.
+subtitle: 
 
 # Summary for listings and search engines
 # summary: 
@@ -39,9 +39,9 @@ categories:
 ---
 
 Hi, I am currently looking for a postdoc position starting from Fall 2024. Please don't hesitate to contact me if you are interested.  
-
+<!-- 
 ## License
 
 Copyright 2021-present [Yao Ji](https://yaoji.netlify.com/).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license. -->
