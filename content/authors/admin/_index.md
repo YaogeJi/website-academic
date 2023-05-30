@@ -29,9 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Operation Research
+  - course: Ph.D. Student in Operation Research
     institution: Purdue University
-    year: Present
+    year: 
   - course: M.S. in Probability and Stochastic Process 
     institution: Beijing Normal University
     year: 2019

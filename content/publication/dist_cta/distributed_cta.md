@@ -38,12 +38,10 @@ tags: [distributed optimization, high-dimension statistics, linear convergence, 
 
 # Display this page in the Featured widget?
 featured: true
-
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
@@ -52,14 +50,12 @@ featured: true
 # url_slides: ''
 # url_source: ''
 # url_video: ''
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""
 #   preview_only: false
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -67,7 +63,6 @@ featured: true
 #   Otherwise, set `projects: []`.
 # projects:
 # - example
-
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
