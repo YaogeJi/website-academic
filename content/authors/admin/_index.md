@@ -71,7 +71,7 @@ email: "jiyao@purdue.edu"
 highlight_name: false
 ---
 
-I am a third year Ph.D student of Industrial Engineering at Purdue University supervised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning over networks and distributed optimization theory.
+I am a fourth year Ph.D. student from School of Industrial Engineering, Purdue University. I am coadvised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning, decentralized estimation and inference, distributed optimization theory, stochastic optimization, high-dimensional probability and statistics.
 
 
 
