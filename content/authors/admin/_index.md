@@ -76,6 +76,4 @@ highlight_name: false
 
 I am a fourth year Ph.D. student from School of Industrial Engineering, Purdue University. I am coadvised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning, decentralized estimation and inference, distributed optimization theory, stochastic optimization, high-dimensional probability and statistics.
 
-Prior joining Purdue, I obtained my master degree (with thesis) at BNU, working with Wenming Hong. My academic genealogy is Yao Ji &rarr; Wenming Hong &rarr; Zikun Wang &rarr; Andrey Kolmogorov.
-
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}.
