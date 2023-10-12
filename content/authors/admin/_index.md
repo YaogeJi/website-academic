@@ -56,9 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yao-ji-522a751a9/
-- icon: google-scholoar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-icon_pack: ai
-link: https://scholar.google.com/citations?user=Z3bDxfYAAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Z3bDxfYAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
