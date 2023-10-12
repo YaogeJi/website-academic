@@ -15,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-04-17T00:00:00Z"
+date: "2023-08-17T00:00:00Z"
 doi: "10103556"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-04-17T00:00:00Z"
+publishDate: "2023-08-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publishDate: "2023-04-17T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
-publication: In IEEE Transactions on Information Theory ( Early Access )
+publication: In IEEE Transactions on Information Theory
 publication_short: In *IEEE Trans. Inf. Theory*
 
 abstract: We study linear regression from data distributed over a network of agents (with no master node) by means of LASSO estimation, in high-dimension , which allows the ambient dimension to grow faster than the sample size. While there is a vast literature of distributed algorithms applicable to the problem, statistical and computational guarantees of most of them remain unclear in high dimension. This paper provides a first statistical study of the Distributed Gradient Descent (DGD) in the Adapt-Then-Combine (ATC) form. Our theory shows that, under standard notions of restricted strong convexity and smoothness of the loss functions–which hold with high probability for standard data generation models–suitable conditions on the network connectivity and algorithm tuning, DGD-ATC converges globally at a linear rate to an estimate that is within the centralized statistical precision of the model. In the worst-case scenario, the total number of communications to statistical optimality grows logarithmically with the ambient dimension, which improves on the communication complexity of DGD in the Combine-Then-Adapt (CTA) form, scaling linearly with the dimension. This reveals that mixing gradient information among agents, as DGD-ATC does, is critical in high-dimensions to obtain favorable rate scalings.
@@ -35,15 +35,15 @@ abstract: We study linear regression from data distributed over a network of age
 # Summary. An optional shortened abstract.
 summary: ATC convergence rate of LASSO problem in high-dimension regime.
 
-tags: [distributed optmization, high-dimension statistics, linear convergence, sparse linear regression]
+tags: [distributed optimization, high-dimension statistics, linear convergence, sparse linear regression]
 
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+Custom links (uncomment lines below)
+links:
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/10103556
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY6nnN9acAAAAA:ZLesKjqE8-BbHKNPIZ6ksRKBWa-K-coC-JFfRPQarELKtK7PvoeosGtIzpV4CFOv-l3bDFgg0A4'
 # url_code: ''
