@@ -80,3 +80,11 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
+
+[[buttons]]
+  id = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=Z3bDxfYAAAAJ&hl=en"
+  title = "Google Scholar"
+  icon_pack = "fab"
+  icon = "google"
+  enable = true
