@@ -56,9 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yao-ji-522a751a9/
-  # - icon: google-scholoar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  # icon_pack: ai
-  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholoar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+icon_pack: ai
+link: https://scholar.google.com/citations?user=Z3bDxfYAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,6 +74,6 @@ email: "jiyao@purdue.edu"
 highlight_name: false
 ---
 
-I am a fourth year Ph.D. student from School of Industrial Engineering, Purdue University. I am coadvised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning, decentralized estimation and inference, distributed optimization theory, stochastic optimization, high-dimensional probability and statistics.
+I am a fifth year Ph.D. candidate from School of Industrial Engineering, Purdue University. I am co-advised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning, decentralized estimation and inference, distributed optimization theory, stochastic optimization, high-dimensional probability and statistics.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}.
