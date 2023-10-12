@@ -38,6 +38,7 @@ categories:
 - personal
 ---
 
+I am a rock climber with focusing on boundary. My favorate gym is [Northmass](https://www.northmassboulder.com/).
 
 
 ## License

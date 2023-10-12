@@ -38,7 +38,7 @@ categories:
 - welcome
 ---
 
-This is my personal website. Please check if anything here could help you a little bit. I am glad to hear your feedback and comments. 
+I started running from 2020. I have joined 2021 Indy Monumental Half Marathon, 2022 Columbus Half Marathon and Purdue Half Marathon. My personal best is 2:03:49.
 
 ## License
 
