@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-08-17T00:00:00Z"
-doi: "10103556"
+doi: "10.1109/TIT.2023.3267742"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-17T00:00:00Z"
@@ -44,6 +44,8 @@ featured: true
 links:
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/10103556
+
+- name: BIB
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY6nnN9acAAAAA:ZLesKjqE8-BbHKNPIZ6ksRKBWa-K-coC-JFfRPQarELKtK7PvoeosGtIzpV4CFOv-l3bDFgg0A4'
 # url_code: ''
