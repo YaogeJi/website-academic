@@ -19,17 +19,17 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2013-06-01T00:00:00Z"
+publishDate: "2023-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 # publication: In Journal of Machine Learning Research (Accept with Minor Revision)
 # publication_short: In JMLR
-publication_short: Under Revision (Accepted by JMLR with minor changes.)
+publication_short: Accepted by JMLR
 
 abstract: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node). The estimation problem is formulated as the minimization of the sum of the local LASSO loss functions plus a quadratic penalty of the consensus constraint—the latter being instrumental to obtain distributed solution methods.
 # Summary. An optional shortened abstract.
@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2111.06530.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
