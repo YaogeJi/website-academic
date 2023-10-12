@@ -40,12 +40,12 @@ tags: [distributed optimization, high-dimension statistics, linear convergence, 
 # Display this page in the Featured widget?
 featured: true
 
-Custom links (uncomment lines below)
+# Custom links (uncomment lines below)
 links:
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/10103556
 
-# url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY6nnN9acAAAAA:ZLesKjqE8-BbHKNPIZ6ksRKBWa-K-coC-JFfRPQarELKtK7PvoeosGtIzpV4CFOv-l3bDFgg0A4'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY6nnN9acAAAAA:ZLesKjqE8-BbHKNPIZ6ksRKBWa-K-coC-JFfRPQarELKtK7PvoeosGtIzpV4CFOv-l3bDFgg0A4'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
