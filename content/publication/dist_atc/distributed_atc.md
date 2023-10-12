@@ -41,11 +41,10 @@ tags: [distributed optimization, high-dimension statistics, linear convergence, 
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: IEEE
-  url: https://ieeexplore.ieee.org/document/10103556
+# links:
+# - name: IEEE
+#   url: https://ieeexplore.ieee.org/document/10103556
 
-- name: BIB
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY6nnN9acAAAAA:ZLesKjqE8-BbHKNPIZ6ksRKBWa-K-coC-JFfRPQarELKtK7PvoeosGtIzpV4CFOv-l3bDFgg0A4'
 # url_code: ''
@@ -79,12 +78,13 @@ url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10103556?casa_token=OcJY
 # slides: example
 ---
 
-<!-- {{% callout note %}}
+
+{{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
+<!-- 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
