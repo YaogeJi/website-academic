@@ -38,7 +38,7 @@ categories:
 - personal
 ---
 
-I am a rock climber with focusing on bouldering. My favorite gym is [Northmass](https://www.northmassboulder.com/).
+I am a rock climber focusing on bouldering. My favorite gym is [North Mass](https://www.northmassboulder.com/).
 
 
 ## License
