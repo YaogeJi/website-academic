@@ -6,7 +6,7 @@ title: Yao Ji
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
