@@ -3,7 +3,7 @@ title: As a runner
 subtitle: Yao Ji as a runner
 
 # Summary for listings and search engines
-summary: Yao Ji as a runner
+summary: Where I can feel the wind.
 
 # # Link this post with a project
 # projects: []
@@ -12,7 +12,7 @@ summary: Yao Ji as a runner
 date: "2023-05-18T23:29:30Z"
 
 # Date updated
-lastmod: "2021-02-01T23:29:30Z"
+lastmod: "2023-10-30T21:31:30Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -32,10 +32,10 @@ authors:
 - Yao Ji
 
 tags:
-- welcome
+- personal
 
 categories:
-- welcome
+- personal
 ---
 
 I started running from 2020. I enjoyed our local half marathon events! My personal best is 2:03:49. Here's the events I have participated in:

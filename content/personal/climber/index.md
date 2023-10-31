@@ -3,7 +3,7 @@ title: As a climber
 subtitle: Yao Ji as a climber
 
 # Summary for listings and search engines
-summary: Yao Ji as a climber
+summary: Observation, Decision and Action!
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 date: "2021-02-01T23:29:30Z"
 
 # Date updated
-lastmod: "2021-02-01T23:29:30Z"
+lastmod: "2023-10-30T21:31:30Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+- Yao Ji
 
 tags:
 - personal
