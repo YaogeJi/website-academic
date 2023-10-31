@@ -27,13 +27,13 @@ publishDate: "2023-09-23T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
-# publication: In Journal of Machine Learning Research (Accept with Minor Revision)
-# publication_short: In JMLR
-publication_short: In JMLR
+publication: Journal of Machine Learning Research
+publication_short: Journal of Machine Learning Research
 
 abstract: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node). The estimation problem is formulated as the minimization of the sum of the local LASSO loss functions plus a quadratic penalty of the consensus constraint—the latter being instrumental to obtain distributed solution methods.
 # Summary. An optional shortened abstract.
-summary: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node).
+summary: We study sparse linear regression over a network of agents, modeled as an undirected graph (with no centralized node). The estimation problem is formulated as the minimization of the sum of the local LASSO loss functions plus a quadratic penalty of the consensus constraint—the latter being instrumental to obtain distributed solution methods.
+
 tags: [distributed optimization, high-dimension statistics, linear convergence, sparse linear regression]
 
 # Display this page in the Featured widget?
@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+url: https://www.jmlr.org/papers/v24/21-1329.html
 url_pdf: 'https://www.jmlr.org/papers/volume24/21-1333/21-1333.pdf'
 # url_code: ''
 # url_dataset: ''
