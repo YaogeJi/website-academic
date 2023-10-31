@@ -38,7 +38,7 @@ categories:
 - welcome
 ---
 
-I started running from 2020. I enjoyed our local half marathon events! My personal best is 2:03:49. Here's the event I have participated in:
+I started running from 2020. I enjoyed our local half marathon events! My personal best is 2:03:49. Here's the events I have participated in:
 * 2021 Monumental Half Marathon
 * 2022 Columbus Half Marathon 
 * 2022 Purdue Half Marathon
