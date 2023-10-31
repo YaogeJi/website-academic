@@ -38,14 +38,15 @@ categories:
 - welcome
 ---
 
-I started running from 2020. I enjoyed our local marathon events! I have ran the
+I started running from 2020. I enjoyed our local half marathon events! My personal best is 2:03:49. Here's the event I have participated in:
 * 2021 Monumental Half Marathon
 * 2022 Columbus Half Marathon 
 * 2022 Purdue Half Marathon
 * 2023 Carmel Half Marathon
 * 2023 Purdue Half Marathon  
 * 2023 Monumental Half Marathon. 
-My personal best is 2:03:49.
+  
+
 
 ## License
 
