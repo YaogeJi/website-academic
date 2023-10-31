@@ -1,6 +1,6 @@
 ---
-title: As a climber
-subtitle: Yao Ji as a climber
+title: Love Climbing!
+subtitle: Observation, Decision and Action!
 
 # Summary for listings and search engines
 summary: Observation, Decision and Action!

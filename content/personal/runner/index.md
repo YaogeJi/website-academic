@@ -1,9 +1,9 @@
 ---
 title: I am a Runner
-subtitle: When I can feel the wind.
+subtitle: Feel the wind.
 
 # Summary for listings and search engines
-summary: Yao Ji Purdue Running
+summary: Feel the wind.
 
 # # Link this post with a project
 # projects: []
