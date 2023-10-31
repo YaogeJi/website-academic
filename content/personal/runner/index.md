@@ -1,9 +1,9 @@
 ---
-title: As a runner
-subtitle: Yao Ji as a runner
+title: I am a Runner
+subtitle: When I can feel the wind.
 
 # Summary for listings and search engines
-summary: Where I can feel the wind.
+summary: Yao Ji Purdue Running
 
 # # Link this post with a project
 # projects: []
