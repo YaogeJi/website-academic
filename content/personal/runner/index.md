@@ -39,7 +39,7 @@ categories:
 ---
 
 I started running from 2020. I enjoyed our local marathon events! I have ran the
-* 2021 Monumental Half Marathon,
+* 2021 Monumental Half Marathon
 * 2022 Columbus Half Marathon 
 * 2022 Purdue Half Marathon
 * 2023 Carmel Half Marathon
@@ -49,6 +49,6 @@ My personal best is 2:03:49.
 
 ## License
 
-Copyright 2021-present [Yao Ji](https://yaoji.netlify.com/).
+Copyright 2021-present [Yao Ji](https://yaoji-academic.com/).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.

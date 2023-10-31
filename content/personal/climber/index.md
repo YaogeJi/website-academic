@@ -38,11 +38,10 @@ categories:
 - personal
 ---
 
-I am a rock climber focusing on bouldering. My favorite gym is [North Mass](https://www.northmassboulder.com/).
-
+I am a rock climber focusing on bouldering. My favorite gym is [North Mass](https://www.northmassboulder.com/). If you are interested in climbing, we can climb together and have a drink together.
 
 ## License
 
-Copyright 2021-present [Yao Ji](https://yaoji.netlify.com/).
+Copyright 2021-present [Yao Ji](https://yaoji-academic.com/).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
