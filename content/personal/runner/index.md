@@ -38,7 +38,14 @@ categories:
 - welcome
 ---
 
-I started running from 2020. I have joined 2021 Indy Monumental Half Marathon, 2022 Columbus Half Marathon and Purdue Half Marathon, 2023 Carmel Half Marathon, Purdue Half Marathon and Monumental Half Marathon. My personal best is 2:03:49.
+I started running from 2020. I enjoyed our local marathon events! I have ran the
+* 2021 Monumental Half Marathon,
+* 2022 Columbus Half Marathon 
+* 2022 Purdue Half Marathon
+* 2023 Carmel Half Marathon
+* 2023 Purdue Half Marathon  
+* 2023 Monumental Half Marathon. 
+My personal best is 2:03:49.
 
 ## License
 
