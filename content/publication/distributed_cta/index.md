@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-url_pdf: 'https://www.jmlr.org/papers/volume24/21-1333/21-1333.pdf'
+url_pdf: 'https://www.jmlr.org/papers/v24/21-1333.html'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
