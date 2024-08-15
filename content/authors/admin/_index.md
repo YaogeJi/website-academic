@@ -6,18 +6,18 @@ title: Yao Ji
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: H. Milton Stewart Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Industrial Engineering (IE)
-  url: https://engineering.purdue.edu/IE/
-- name: Purdue University
-  url: https://www.purdue.edu/
+- name: H. Milton Stewart School of Industrial and Systems Engineering (ISyE)
+  url: https://https://www.isye.gatech.edu/
+- name: Georgia Institute of Technology
+  url: https://www.gatech.edu/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical learning over networks and distributed optimization theory.
+bio: Yao Ji is a H. Milton Stewart Postdoctoral Fellow, whose enthusiasm lies on optimization, probability and statistics research.  
 
 # Interests to show in About widget
 interests:
