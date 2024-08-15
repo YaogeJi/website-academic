@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. Student in Operation Research
     institution: Purdue University
-    year: Expected 2024
+    year: 2024
   - course: M.S. in Probability and Stochastic Process 
     institution: Beijing Normal University
     year: 2019
