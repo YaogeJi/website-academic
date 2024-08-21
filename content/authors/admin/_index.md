@@ -11,7 +11,7 @@ role: H. Milton Stewart Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: H. Milton Stewart School of Industrial and Systems Engineering (ISyE)
-  url: https://https://www.isye.gatech.edu/
+  url: https://www.isye.gatech.edu/
 - name: Georgia Institute of Technology
   url: https://www.gatech.edu/
 
