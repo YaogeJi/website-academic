@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Student in Operation Research
+  - course: Ph.D. in Operation Research
     institution: Purdue University
     year: 2024
   - course: M.S. in Probability and Stochastic Process 
