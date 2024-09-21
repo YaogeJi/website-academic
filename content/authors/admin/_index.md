@@ -11,7 +11,7 @@ role: H. Milton Stewart Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: H. Milton Stewart School of Industrial and Systems Engineering (ISyE)
-  url: https://https://www.isye.gatech.edu/
+  url: https://www.isye.gatech.edu/
 - name: Georgia Institute of Technology
   url: https://www.gatech.edu/
 
@@ -29,9 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Student in Operation Research
+  - course: Ph.D. in Operation Research
     institution: Purdue University
-    year: Expected 2024
+    year: 2024
   - course: M.S. in Probability and Stochastic Process 
     institution: Beijing Normal University
     year: 2019
