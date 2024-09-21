@@ -1,5 +1,5 @@
 ---
-title: Looking for a Postdoc position in the intersection of optimization theory and statistics.
+title: H. Milton Stewart Postdoctoral Fellow at Georgia Tech
 subtitle: 
 
 # Summary for listings and search engines
@@ -38,7 +38,7 @@ categories:
 - welcome
 ---
 
-Hi, I am currently looking for a postdoc position starting from Fall 2024. Please don't hesitate to contact me if you are interested.  
+I am excieted to announce that I will be starting my new role as an H. Milton Stewart Postdoctoral Fellow at Georgia Tech in Fall 2024 advised by Prof. George Lan.
 <!-- 
 ## License
 

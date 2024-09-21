@@ -74,6 +74,9 @@ email: "jiyao@purdue.edu"
 highlight_name: false
 ---
 
-I am a fifth year Ph.D. candidate from School of Industrial Engineering, Purdue University. I am co-advised by <a href="https://engineering.purdue.edu/~gscutari/">Dr. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/">Dr. Harsha Honnappa</a>. I received my B.S. (2016) and M.S. (2019) degrees in School of Mathematic Science from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. My research interests include statistical learning, decentralized estimation and inference, distributed optimization theory, stochastic optimization, high-dimensional probability and statistics.
+I am an H. Milton Stewart Postdoctoral Fellow in the <a href="https://www.isye.gatech.edu/">H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>. My postdoctoral mentor is <a href="https://sites.gatech.edu/guanghui-lan/">Prof. Guanghui (George) Lan</a>.
+
+I earned my Ph.D. in <a href="https://engineering.purdue.edu/IE">Industrial Engineering from the School of Industrial Engineering (IE)</a> at <a href="https://www.purdue.edu/">Purdue University</a> (2024). My PhD advisors were <a href="https://engineering.purdue.edu/~gscutari/">Prof. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/about">Prof. Harsha Honnappa</a>. My other committee members were <a href="https://web.ics.purdue.edu/~pasupath/">Prof. Raghu Pasupathy</a>, <a href="https://web.ics.purdue.edu/~wang5984/">Prof. Alex. L. Wang</a>. Prior to that, I received my B.S. (2016) and M.S. (2019) degrees in the <a href="https://english.bnu.edu.cn/schoolsdepartments/byx/113297.htm">School of Mathematic Science</a> from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. 
+
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}.
