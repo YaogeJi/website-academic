@@ -38,7 +38,7 @@ categories:
 - conference
 ---
 
-Hi everyone, I will be attending [Informs 2025]<https://meetings.informs.org/wordpress/annual/> and present our work Higher-order Accumulative Regularization Methods for Gradient Minimizaton. See you there!
+Hi everyone, I will be attending [Informs 2025](https://meetings.informs.org/wordpress/annual/) and present our work Higher-order Accumulative Regularization Methods for Gradient Minimizaton. See you there!
 <!-- 
 ## License
 
