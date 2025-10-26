@@ -76,7 +76,7 @@ highlight_name: false
 
 I am an H. Milton Stewart Postdoctoral Fellow in the <a href="https://www.isye.gatech.edu/">H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>. My postdoctoral mentor is <a href="https://sites.gatech.edu/guanghui-lan/">Prof. Guanghui (George) Lan</a>.
 
-I earned my Ph.D. in <a href="https://engineering.purdue.edu/IE">Industrial Engineering from the School of Industrial Engineering (IE)</a> at <a href="https://www.purdue.edu/">Purdue University</a> (2024). My Ph.D. advisors were <a href="https://engineering.purdue.edu/~gscutari/">Prof. Gesualdo Scutari</a> and <a href="https://engineering.purdue.edu/SSL/about">Prof. Harsha Honnappa</a>. My other committee members were <a href="https://web.ics.purdue.edu/~pasupath/">Prof. Raghu Pasupathy</a>, <a href="https://web.ics.purdue.edu/~wang5984/">Prof. Alex. L. Wang</a>. Prior to that, I received my B.S. (2016) and M.S. (2019) degrees in the <a href="https://english.bnu.edu.cn/schoolsdepartments/byx/113297.htm">School of Mathematic Science</a> from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. 
+I earned my Ph.D. in <a href="https://engineering.purdue.edu/IE">Industrial Engineering from the School of Industrial Engineering (IE)</a> at <a href="https://www.purdue.edu/">Purdue University</a> (2024). Prior to that, I received my B.S. (2016) and M.S. (2019) degrees in the <a href="https://english.bnu.edu.cn/schoolsdepartments/byx/113297.htm">School of Mathematic Science</a> from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. 
 
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}.
