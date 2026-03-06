@@ -94,12 +94,12 @@ phone = "765-714-5066"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 
-room = "MSEE 233D"
-address = {street = "Grissom Hall", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
+room = "ISyE Main Building"
+address = {street = "755 Ferst Drive NW", city = "Atlanta", region = "GA", postcode = "30332", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.42648", longitude = "-86.91075"}
+coordinates = {latitude = "33.77643", longitude = "-84.39663"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

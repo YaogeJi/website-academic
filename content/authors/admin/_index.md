@@ -79,4 +79,4 @@ I am an H. Milton Stewart Postdoctoral Fellow in the <a href="https://www.isye.g
 I earned my Ph.D. in <a href="https://engineering.purdue.edu/IE">Industrial Engineering from the School of Industrial Engineering (IE)</a> at <a href="https://www.purdue.edu/">Purdue University</a> (2024). Prior to that, I received my B.S. (2016) and M.S. (2019) degrees in the <a href="https://english.bnu.edu.cn/schoolsdepartments/byx/113297.htm">School of Mathematic Science</a> from <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>. 
 
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Yao_Ji.pdf" "newtab" >}}CV{{< /staticref >}}. -->
